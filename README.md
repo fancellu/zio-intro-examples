@@ -10,7 +10,7 @@ Some intro code to help with understanding zio, i.e. monkey see, monkey do
 
 - Fibers
 
-- Zayers
+- ZLayers
 
 - Modules
 
