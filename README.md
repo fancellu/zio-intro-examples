@@ -2,7 +2,7 @@
 
 https://zio.dev/
 
-Some intro code to help with understanding zio, i.e. monkey see, monkey do 
+Some intro code to help with understanding zio 1.x, i.e. monkey see, monkey do 
 
 - Unit tests with zio-test
 
